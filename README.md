@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasPrieto30 and i study Computer Science in the Universidad Nacional de General Sarmiento. 
+- 👋 Hi, I’m Lucas and i study Computer Science in the Universidad Nacional de General Sarmiento. 
 - 😃 I like coding and learning new things every day.
 - 🧐 Java - Python
 - 🌱 I’m currently learning PHP & MySql
