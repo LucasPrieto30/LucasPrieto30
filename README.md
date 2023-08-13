@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lucas and i study Computer Science in the Universidad Nacional de General Sarmiento. 
 - 😃 I like coding and learning new things every day.
-- 🧐 Java - Python
-- 🌱 I’m currently learning PHP & MySql
+- 🧐 .NET, Javascript
+- 🌱 I’m currently learning React & Typescript
 - 📫 How to reach me: lucasprieto30@gmail.com
 
 <!---
